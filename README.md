@@ -14,6 +14,6 @@ Basically its a cpu scheduler that schedules the processes in the txt file.
 
 ## Todo(Functions):
 
-- [ ] SRTF structure rewrite.
+- [x] SRTF structure rewrite.
 - [ ] Manual inputed user.
 - [x] IOwriter structure.
