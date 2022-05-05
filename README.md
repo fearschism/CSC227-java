@@ -1,6 +1,6 @@
 This is a very simple program written in java for my csc 227 course
  this program reads the txt files in the src folder and then organize it to whatever service the user picks.
- **Cpu.java** is made by **bader alrajhi**
+ **Cpu.java** is made by **@b1ader**
 
 ## services:
 
